@@ -8,7 +8,7 @@
 </div>
 
 
-<h3 align="center">
+<h3 align="left">
 🤖 AI and ML Engineer | ⚡ Electrical Engineer | 🌐 Full Stack Developer | 🔌 Embedded & Control System
 </h3>
 
