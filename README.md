@@ -29,6 +29,7 @@
     <li>🤖 I am passionate about Machine Learning, Artificial Intelligence, and Full-Stack Development</li>
     <li>📫 Reach me at <a href="mailto:amanuel.a.sahilu@gmail.com">amanuel.a.sahilu@gmail.com</a></li>
   </ul>
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
 </div>
 
 🤖 Language and Tools
