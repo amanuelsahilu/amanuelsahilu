@@ -1,19 +1,3 @@
-## Hi there 👋
-
-<!--
-**amanuelsahilu/amanuelsahilu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 # 👋 Hi, I'm Amanuel Sahilu
 
@@ -147,19 +131,9 @@ Experience:
 
 Electrical engineering foundation:
 
-- Circuit Analysis
-- Electrical Design
-- Power Systems
-- Industrial Automation
-- Electrical Simulation
-- Engineering Problem Solving
-
-
 Tools:
 
 - MATLAB / Simulink
-- ETAP
-- AutoCAD Electrical
 - CADe SIMU
 - LOGO Soft Comfort
 
@@ -167,19 +141,6 @@ Tools:
 ---
 
 # 🎛️ Control Systems Engineering
-
-
-Experience with:
-
-- Classical Control Theory
-- PID Controllers
-- Feedback Systems
-- System Modeling
-- Stability Analysis
-- Frequency Response Analysis
-- Root Locus
-- Bode Plot Analysis
-
 
 Tools:
 
@@ -204,23 +165,5 @@ Experience:
 
 - Microcontroller Programming
 - Embedded C/C++
-- Sensor Integration
-- Hardware Interfacing
-- Real-Time Systems
-- Automation Systems
 
-
-Projects:
-
-🛗 Smart Elevator Automation System
-
-- PLC Logic Design
-- LOGO Soft Comfort
-- CADe SIMU
-- Industrial Control Implementation
-
-
----
-
-# 🧠 Intelligent Systems Architecture
 
