@@ -27,7 +27,7 @@
     <li>🎓 I am currently pursuing my Bachelor's degree</li>
     <li>📚 I am currently working on my thesis and research projects</li>
     <li>🤖 I am passionate about Machine Learning, Artificial Intelligence, and Full-Stack Development</li>
-    <li>📫 Reach me at <a href="mailto:amanuel.a.sahilu@gmail.com">your.email@example.com</a></li>
+    <li>📫 Reach me at <a href="mailto:amanuel.a.sahilu@gmail.com">amanuel.a.sahilu@gmail.com</a></li>
   </ul>
 </div>
 
