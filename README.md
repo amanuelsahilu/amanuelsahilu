@@ -1,5 +1,5 @@
 
-# 👋 Hi, I'm Amanuel Sahilu
+# 👋 Hi, I'm Amanuel Alebachew
 
 <div align="center">
 
