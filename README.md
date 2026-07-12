@@ -13,6 +13,8 @@
 🔌 Embedded Systems  
 🌐 Full Stack Software Development  
 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="60"/>
+
 🤖 Language and Tools
 
 <div align="center">
