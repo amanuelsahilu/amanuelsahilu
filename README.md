@@ -24,7 +24,7 @@
 
 <table>
   <tr>
-    <td valign="center">
+    <td valign="center" border="0">
       <ul>
         <li>🎓 I am currently pursuing my Bachelor's degree</li>
         <li>📚 I am currently working on my thesis and research projects</li>
