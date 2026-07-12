@@ -15,8 +15,6 @@
 
 # 🚀 About Me
 
-I am an Electrical Engineering student passionate about building intelligent and automated systems that connect:
-
 ⚡ Electrical Engineering  
 🤖 Artificial Intelligence  
 🎛️ Control Systems  
