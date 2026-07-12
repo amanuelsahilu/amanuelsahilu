@@ -1,9 +1,7 @@
 
 <h1>👋 Hi, I'm Amanuel Alebachew</h1>
 
-<h3 align="left">
-🤖 AI and ML Engineer | ⚡ Electrical Engineer | 🌐 Full Stack Developer |  Embedded & Control System
-</h3>
+<p>Electrical Engineer specializing in Machine Learning, Artificial Intelligence, and Full-Stack Development. Passionate about building intelligent, scalable software that combines AI with modern web technologies and engineering solutions.</p>
 
 🚀 About Me
 
