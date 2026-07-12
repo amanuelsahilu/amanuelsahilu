@@ -29,22 +29,6 @@ I am an Electrical Engineering student passionate about building intelligent and
 🔌 Embedded Systems  
 🌐 Full Stack Software Development  
 
-
-My goal is to develop solutions where **hardware, software, and intelligent algorithms work together**.
-
-Areas I work with:
-
-- Artificial Intelligence & Machine Learning
-- Full Stack Web Development
-- Control System Design
-- Embedded Systems
-- Digital Signal Processing
-- Industrial Automation
-- Intelligent Engineering Applications
-
-
----
-
 # 🤖 Artificial Intelligence & Machine Learning
 
 
