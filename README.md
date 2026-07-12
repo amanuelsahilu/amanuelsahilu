@@ -18,7 +18,7 @@
     <td align="center"><img src="https://camo.githubusercontent.com/ab09de79f0629e01d86942513abff902dc6948e1d6194b4d4dc3724d82e52831/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f726573746170692d69636f6e2e737667" width="60" height="60"></td>
     <td align="center"><img src="https://camo.githubusercontent.com/166d7510eddc438981693781e5252ddcf99f0445f80b91b7986f2f7f122f9892/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6d7973716c2d69636f6e2e737667" width="60" height="60"></td>
     <td align="center"><img src="./assets/Settings.gif" width="60" height="60"></td>
-    <td align="center"><img src="images/github.png" width="60" height="60"></td>
+    <td align="center"><img src="https://camo.githubusercontent.com/16b52621932a556fbac9ae4101250a283e6cddf0b2b7ed1a218a2d4d95cd356b/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6769746875622d69636f6e2e737667" width="60" height="60"></td>
   </tr>
 </table>
 
