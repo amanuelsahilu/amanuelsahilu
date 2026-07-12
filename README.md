@@ -36,8 +36,6 @@
 
 ### 🛠️ Languages & Technologies
 
-To highlight your specific focus areas, your stack is broken down below:
-
 #### **Data Science, AI & Machine Learning**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv" />
