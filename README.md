@@ -22,9 +22,9 @@
   </tr>
 </table>
 
-<table>
+<table border="0">
   <tr>
-    <td valign="center" border="0">
+    <td valign="center" style="border: none;">
       <ul>
         <li>🎓 I am currently pursuing my Bachelor's degree</li>
         <li>📚 I am currently working on my thesis and research projects</li>
@@ -32,7 +32,7 @@
         <li>📫 Reach me at <a href="mailto:amanuel.a.sahilu@gmail.com">amanuel.a.sahilu@gmail.com</a></li>
       </ul>
     </td>
-    <td valign="center">
+    <td valign="center" style="border: none;">
       <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="300"/>
     </td>
   </tr>
