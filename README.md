@@ -16,7 +16,7 @@
 🤖 Language and Tools
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,angular,nodejs,express,java,spring,python,django,fastapi,python,pytorch,tensorflow,opencv,mongodb,postgres,mysql,linux" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,angular,nodejs,express,java,spring,python,django,fastapi,python,pytorch,tensorflow,opencv,mongodb,postgres,mysql,linux,docker" />
 
 </div>
 
