@@ -11,12 +11,6 @@
 <h3 align="center">
 🤖 AI Engineer | ⚡ Electrical Engineer | 🌐 Full Stack Developer | 🔌 Embedded & Automation Engineer
 </h3>
-
-<p align="center">
-Designing intelligent systems by combining Artificial Intelligence, Software Engineering, Control Systems, and Electrical Engineering.
-</p>
-
-
 ---
 
 # 🚀 About Me
