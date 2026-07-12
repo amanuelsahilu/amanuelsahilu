@@ -23,8 +23,7 @@ I am an Electrical Engineering student passionate about building intelligent and
 🔌 Embedded Systems  
 🌐 Full Stack Software Development  
 
-# 🤖 Artificial Intelligence & Machine Learning
-
+# 🤖 Language and Tools
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=html,css,javascript,react,angular,nodejs,express,java,spring,python,django,flask,fastapi,python,pytorch,tensorflow,opencv,mongodb,postgres,mysql" />
