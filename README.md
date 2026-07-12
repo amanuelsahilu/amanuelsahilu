@@ -9,9 +9,8 @@
 
 
 <h3 align="center">
-🤖 AI Engineer | ⚡ Electrical Engineer | 🌐 Full Stack Developer | 🔌 Embedded & Automation Engineer
+🤖 AI and ML Engineer | ⚡ Electrical Engineer | 🌐 Full Stack Developer | 🔌 Embedded & Control System
 </h3>
----
 
 # 🚀 About Me
 
