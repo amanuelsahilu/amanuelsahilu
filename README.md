@@ -21,7 +21,7 @@
 
 ---
 
-### 🏛️ About Me
+🏛️ About Me
 
 <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Coding Animation">
 
@@ -34,19 +34,19 @@
 
 ---
 
-### 🛠️ Languages & Technologies
+🛠️ Languages & Technologies
 
-#### **Data Science, AI & Machine Learning**
+**Data Science, AI & Machine Learning**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv" />
 </p>
 
-#### **Full-Stack Web Development**
+**Full-Stack Web Development**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,angular,nodejs,express,java,spring,django,fastapi" />
 </p>
 
-#### **Databases & DevOps Infrastructure**
+**Databases & DevOps Infrastructure**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,linux,docker" />
 </p>
