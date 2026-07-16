@@ -47,5 +47,5 @@
 
 **Databases & DevOps Infrastructure**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,linux,docker" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,linux,docker,vite" />
 </p>
