@@ -25,7 +25,7 @@
 <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Coding Animation">
 - 🎓 **Education:** Currently pursuing my Bachelor's degree in Electrical Engineering.
 - 📚 **Research:** Actively focusing on academic thesis and modern research projects.
-- 🤖 **Interests:** Deeply passionate about Machine Learning architectures, Artificial Intelligence, and scalable Full-Stack solutions.
+- 🤖 **Interests:** Deeply passionate about Machine Learning architectures,Embedded System, Artificial Intelligence, and scalable Full-Stack solutions.
 - 📫 **Let's Connect:** Reach out directly at [amanuel.a.sahilu@gmail.com](mailto:amanuel.a.sahilu@gmail.com).
 
 <br clear="right">
