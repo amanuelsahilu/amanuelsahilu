@@ -49,3 +49,5 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,linux,docker,vite" />
 </p>
+
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/YOUR_USERNAME)
