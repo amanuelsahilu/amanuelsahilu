@@ -1,8 +1,8 @@
 <h1 align="center">👋 Hi, I'm Amanuel Alebachew</h1>
 
 <p align="center">
-  <strong>Electrical Engineer specializing in Machine Learning, Artificial Intelligence,Embedded System and Full-Stack Development</strong><br>
-  Passionate about building intelligent, scalable software that bridges AI, modern web architectures, and robust engineering solutions.
+  <strong>Electrical Engineer specializing in Machine Learning, Artificial Intelligence, Embedded Systems, and Full-Stack Development</strong><br>
+  Passionate about building intelligent, scalable software that bridges AI, modern web technologies, and engineering solutions to solve real-world challenges.
 </p>
 
 <p align="center">
@@ -21,32 +21,53 @@
 
 ---
 
-🏛️ About Me
+# 🏛️ About Me
+
 <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Coding Animation">
-- 🎓 **Education:** Currently pursuing my Bachelor's degree in Electrical Engineering.
-- 📚 **Research:** Actively focusing on academic thesis and modern research projects.
-- 🤖 **Interests:** Deeply passionate about Machine Learning architectures,Embedded System, Artificial Intelligence, and scalable Full-Stack solutions.
-- 📫 **Let's Connect:** Reach out directly at [amanuel.a.sahilu@gmail.com](mailto:amanuel.a.sahilu@gmail.com).
+
+- 🎓 **Education:** Bachelor's student in Electrical Engineering.
+- 🔬 **Research Interests:** Artificial Intelligence, Machine Learning, Computer Vision, Large Language Models, and Embedded AI.
+- 💻 **Development:** Passionate about Full-Stack Development, Backend Engineering, and Cloud Technologies.
+- ⚡ **Engineering:** Experienced in Embedded Systems, Control Systems, MATLAB/Simulink modeling, and intelligent hardware integration.
+- 🚀 **Goal:** To build innovative, scalable, and intelligent systems that bridge hardware and software.
+- 📫 **Email:** **amanuel.a.sahilu@gmail.com**
 
 <br clear="right">
-<br>
 
 ---
 
-🛠️ Languages & Technologies
+# 🛠️ Languages & Technologies
 
-**Data Science, AI & Machine Learning**
+## 🤖 Artificial Intelligence & Machine Learning
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv" />
 </p>
 
-**Full-Stack Web Development**
+---
+
+## 🌐 Full-Stack Development
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,angular,nodejs,express,java,spring,django,fastapi" />
 </p>
 
-**Databases & DevOps Infrastructure**
+---
+
+## ⚡ Electrical Engineering & Embedded Systems
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,linux,docker,vite" />
+  <img src="https://skillicons.dev/icons?i=cpp" />
+
+  <img src="https://img.shields.io/badge/MATLAB-FF6F00?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB"/>
+
+  <img src="https://img.shields.io/badge/Simulink-FF6F00?style=for-the-badge&logo=mathworks&logoColor=white" alt="Simulink"/>
 </p>
 
+---
+
+## 🗄️ Databases, DevOps & Cloud
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,linux,docker,vite,git,github" />
+</p>
