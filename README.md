@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Amanuel Alebachew</h1>
 
 <p align="center">
-  <strong>Electrical Engineer specializing in Artificial Intelligence, Machine Learning, Deep Learning, NLP, Embedded Systems, and Full-Stack Development.</strong><br>
+  <strong>Electrical Engineer specializing in Artificial Intelligence, Machine Learning,Deep Learning, Embedded Systems, and Full-Stack Development.</strong><br>
   Passionate about building intelligent, scalable solutions that bridge software, hardware, and engineering to solve real-world challenges.
 </p>
 
